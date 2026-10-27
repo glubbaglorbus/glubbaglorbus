@@ -14,7 +14,8 @@ Saskatchewan
 &nbsp;Pronouns: **He/Him**  
 &nbsp;I'm currently working on **Capstone! and Weiner Warriors**  
 &nbsp;I'm currently learning **C#**  
- &nbsp;I'm looking to collaborate on **cool games for cool people.**   &nbsp;Ask me about **NOTHING**
+ &nbsp;I'm looking to collaborate on **cool games for cool people.**   
+ &nbsp;Ask me about **NOTHING**
 
 ### Tech Stack
 

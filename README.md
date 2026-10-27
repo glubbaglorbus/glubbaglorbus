@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/glubbaglorbus">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=7c0e11&fontSize=54&height=90&width=698&text=Matthew%20Livingstone" alt="Matthew Livingstone" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=7c0e11&fontType=SansSerif&fontSize=54&height=90&width=698&text=Matthew%20Livingstone" alt="Matthew Livingstone" />
   </a>
 </p>
 
